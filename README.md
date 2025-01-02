@@ -6,6 +6,10 @@ NV Jost is a [Jost](https://github.com/indestructible-type/Jost) variant, with a
 
 Using [FontForge](https://fontforge.org/en-US/). I've included the FontForge files in this repository.
 
+## Example
+
+![Example image showcasing the differences](./example.png)
+
 ## Versions
 
 There is only one version included in the repo (releases):
