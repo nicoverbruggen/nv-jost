@@ -1,20 +1,12 @@
 ## What is this?
 
-NV Jost is a [Jost](https://github.com/indestructible-type/Jost) variant, with a slightly altered lowercase G and single storey a (similar to Futura, only accessible via OT feature on the original font). This is a remix that I personally prefer.
+NV Jost is a [Jost](https://github.com/indestructible-type/Jost) variant, with a slightly altered lowercase G and single storey a (similar to Futura, only accessible via OT feature on the original font). This is an alternate version that I personally prefer.
+
+<kbd><img src="./examples/NV-Jost.png" width='400px'/></kbd>
 
 ## How was this made?
 
-Using [FontForge](https://fontforge.org/en-US/). I've included the FontForge files in this repository.
-
-## Example
-
-![Example image showcasing the differences](./example.png)
-
-## Versions
-
-There is only one version included in the repo (releases):
-
-- **NV Jost**: Best on Kobo. With adjusted line-height, an altered lowercase G and single storey a.
+Using [FontForge](https://fontforge.org). I've included the FontForge files in this repository.
 
 ## License
 
